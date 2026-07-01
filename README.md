@@ -118,8 +118,8 @@ A fully customized Shopify e-commerce theme...
 ### 🛍️ FAQ
 ![FAQ](screenshots/FAQ.png)
 
-### ☕ product details
-![ product details](screenshots/product details.png)
+### ☕ footer
+![footer](screenshots/footer.png)
 
 ### 🛒 Shopping Cart
 ![Cart](screenshots/cart.png)
