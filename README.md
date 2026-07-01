@@ -98,10 +98,10 @@ You can add screenshots of:
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
 
-### 🛍️ Catalog
-![Catalog](screenshots/catalog.png)
+### 🛍️ FAQ
+![Catalog](screenshots/FAQ.png)
 
-### ☕ Product Details
+### ☕ productdetails
 ![Product Details](screenshots/product-details.png)
 
 ### 🛒 Cart
