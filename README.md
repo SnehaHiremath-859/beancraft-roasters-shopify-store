@@ -94,36 +94,45 @@ You can add screenshots of:
 ---
 ## 📸 Screenshots
 
+# ☕ BeanCraft Roasters Shopify Store
+
+A fully customized Shopify e-commerce theme...
+
+## 🚀 Features
+
+...
+
+## 🛠️ Tech Stack
+
+...
+
+## 📁 Project Structure
+
+...
+
+## 📸 Screenshots
+
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
 
-### 🛍️ Product Catalog
-![Catalog](screenshots/catalog.png)
+### 🛍️ FAQ
+![FAQ](screenshots/catalog.png)
 
-### ☕ productdetail
-![productdetail](screenshots/product-details-1.png)
+### ☕ Product Details
+![Product Details](screenshots/product-details.png)
 
-### ☕ Product(2)
-![product(2)](screenshots/product-details-2.png)
-
-### 🛒 Cart
+### 🛒 Shopping Cart
 ![Cart](screenshots/cart.png)
 
-### 🏢 About Us
+### ℹ️ About Us
 ![About](screenshots/about.png)
 
-### 📞 Contact Us
+### 📞 Contact
 ![Contact](screenshots/contact.png)
 
-### ❓ FAQ
-![FAQ](screenshots/faq.png)
+## 👩‍💻 Author
 
-### 🚚 shipping & returns
-![shipping & returns](screenshots/shipping-returns.png)
-
-### 📌 footer
-![Footer](screenshots/footer.png)
-
+Sneha Hiremath
 ## 👩‍💻 Author
 
 **Sneha Hiremath**
