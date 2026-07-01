@@ -100,8 +100,11 @@ You can add screenshots of:
 ### 🛍️ FAQ
 ![FAQ](screenshots/FAQ.png)
 
-### ☕ footer
+### 📌  footer
 ![footer](screenshots/footer.png)
+
+### ☕ product (2)
+![product (2)](screenshots/product (2).png)
 
 ### 🛒 Shopping Cart
 ![Cart](screenshots/cart.png)
