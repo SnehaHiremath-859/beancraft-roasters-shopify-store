@@ -101,8 +101,7 @@ You can add screenshots of:
 ![product details](screenshots/product details.png)
 
 ### ☕ Product (2)
-![Product (2)](screenshots/product (2).png)
-
+![Product (2)](screenshots/product-(2).png)
 ### 🛒 Shopping Cart
 ![Cart](screenshots/cart.png)
 
