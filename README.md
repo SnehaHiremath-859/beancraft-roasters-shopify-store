@@ -116,10 +116,10 @@ A fully customized Shopify e-commerce theme...
 ![Home](screenshots/home.png)
 
 ### 🛍️ FAQ
-![FAQ](screenshots/catalog.png)
+![FAQ](screenshots/FAQ.png)
 
-### ☕ Product Details
-![Product Details](screenshots/product-details.png)
+### ☕ productdetails
+![productdetails](screenshots/productdetails.png)
 
 ### 🛒 Shopping Cart
 ![Cart](screenshots/cart.png)
