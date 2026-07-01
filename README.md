@@ -92,26 +92,37 @@ You can add screenshots of:
 - Store Structure Management
 
 ---
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
 
-### 🛍️ FAQ
-![Catalog](screenshots/FAQ.png)
+### 🛍️ Product Catalog
+![Catalog](screenshots/catalog.png)
 
-### ☕ productdetails
-![Product Details](screenshots/product-details.png)
+### ☕ productdetail
+![productdetail](screenshots/product-details-1.png)
+
+### ☕ Product(2)
+![product(2)](screenshots/product-details-2.png)
 
 ### 🛒 Cart
 ![Cart](screenshots/cart.png)
 
-### ℹ️ About Us
+### 🏢 About Us
 ![About](screenshots/about.png)
 
-### 📞 Contact
+### 📞 Contact Us
 ![Contact](screenshots/contact.png)
+
+### ❓ FAQ
+![FAQ](screenshots/faq.png)
+
+### 🚚 shipping & returns
+![shipping & returns](screenshots/shipping-returns.png)
+
+### 📌 footer
+![Footer](screenshots/footer.png)
 
 ## 👩‍💻 Author
 
