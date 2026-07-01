@@ -90,24 +90,6 @@ You can add screenshots of:
 - Responsive Web Design
 - Git & GitHub Workflow
 - Store Structure Management
-
----
-## 📸 Screenshots
-
-# ☕ BeanCraft Roasters Shopify Store
-
-A fully customized Shopify e-commerce theme...
-
-## 🚀 Features
-
-...
-
-## 🛠️ Tech Stack
-
-...
-
-## 📁 Project Structure
-
 ...
 
 ## 📸 Screenshots
@@ -130,9 +112,7 @@ A fully customized Shopify e-commerce theme...
 ### 📞 Contact
 ![Contact](screenshots/contact.png)
 
-## 👩‍💻 Author
 
-Sneha Hiremath
 ## 👩‍💻 Author
 
 **Sneha Hiremath**
