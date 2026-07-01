@@ -97,24 +97,29 @@ You can add screenshots of:
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
 
-### 🛍️ FAQ
-![FAQ](screenshots/FAQ.png)
+### 🛍️ Product details
+![product details](screenshots/product details.png)
 
-### 📌  footer
-![footer](screenshots/footer.png)
-
-### ☕ product (2)
-![product (2)](screenshots/product (2).png)
+### ☕ Product (2)
+![Product (2)](screenshots/product (2).png)
 
 ### 🛒 Shopping Cart
 ![Cart](screenshots/cart.png)
 
-### ℹ️ About Us
+### 🏢 About Us
 ![About](screenshots/about.png)
 
-### 📞 Contact
+### 📞 Contact Us
 ![Contact](screenshots/contact.png)
 
+### ❓ FAQ
+![FAQ](screenshots/faq.png)
+
+### 🚚 Shipping & Returns
+![Shipping & Returns](screenshots/shipping-returns.png)
+
+### 📌 Footer
+![Footer](screenshots/footer.png)
 
 ## 👩‍💻 Author
 
