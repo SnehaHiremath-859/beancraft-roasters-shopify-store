@@ -93,6 +93,26 @@ You can add screenshots of:
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 🛍️ Catalog
+![Catalog](screenshots/catalog.png)
+
+### ☕ Product Details
+![Product Details](screenshots/product-details.png)
+
+### 🛒 Cart
+![Cart](screenshots/cart.png)
+
+### ℹ️ About Us
+![About](screenshots/about.png)
+
+### 📞 Contact
+![Contact](screenshots/contact.png)
+
 ## 👩‍💻 Author
 
 **Sneha Hiremath**
