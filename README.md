@@ -92,34 +92,38 @@ You can add screenshots of:
 - Store Structure Management
 ...
 
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
 
-### 🛍️ Product details
-![product details](screenshots/product details.png)
+### 📦 Product Details
+![Product Details](screenshots/product%20details.png)
 
 ### ☕ Product (2)
-![Product (2)](screenshots/product-(2).png)
-### 🛒 Shopping Cart
+![Product (2)](screenshots/product%20(2).png)
+
+### 🛒 Cart
 ![Cart](screenshots/cart.png)
 
-### 🏢 About Us
+### 🏢 About
 ![About](screenshots/about.png)
 
-### 📞 Contact Us
+### 📞 Contact
 ![Contact](screenshots/contact.png)
 
 ### ❓ FAQ
-![FAQ](screenshots/faq.png)
+![FAQ](screenshots/FAQ.png)
 
-### 🚚 Shipping & Returns
-![Shipping & Returns](screenshots/shipping-returns.png)
+### 🚚 Shipping & Return
+![Shipping & Return](screenshots/shipping-return.png)
 
-### 📌 Footer
+### 📄 Footer
 ![Footer](screenshots/footer.png)
 
+### 🎨 Logo
+![Logo](screenshots/logo.png)
 ## 👩‍💻 Author
 
 **Sneha Hiremath**
